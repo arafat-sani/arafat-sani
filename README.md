@@ -2,14 +2,14 @@
 <h3 align="center">Frontend Developer | React & Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;Tailwind+CSS+Specialist;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Developer;Tailwind+CSS+Specialist;Always+Learning+New+Things&center=true&width=500&height=45" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m a passionate **Frontend Developer** who loves building  
+I’m a passionate **Frontend Developer** who enjoys building  
 **modern, responsive, and user-friendly web applications**.
 
 - 🌱 Currently learning **Next.js** & exploring **Full-Stack development**
@@ -40,18 +40,6 @@ I’m a passionate **Frontend Developer** who loves building
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arafat-sani)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arafat-sani&theme=dark)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-sani&show_icons=true&theme=radical)
-
-
-
-
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arafat-sani&theme=dark&hide_border=true" />
 </p>
@@ -69,8 +57,8 @@ I’m a passionate **Frontend Developer** who loves building
 ## 📫 Connect With Me
 
 - 📧 Email: **arafatsani@gmail.com**
-
-
+- 🌐 Portfolio: *(add your link here)*
+- 💼 LinkedIn: *(highly recommended)*
 
 ---
 
