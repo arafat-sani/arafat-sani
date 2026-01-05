@@ -41,13 +41,10 @@ I am a passionate Frontend Developer specializing in **React**, **Tailwind CSS**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafat-sani&show_icons=true&theme=radical" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-sani&layout=compact&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=arafat-sani)
+
 
 
 ---
