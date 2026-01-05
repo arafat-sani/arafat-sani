@@ -27,19 +27,17 @@ I am a passionate Frontend Developer specializing in **React**, **Tailwind CSS**
 
 ## 🚀 Projects
 
-### [Shanto Portfolio](https://github.com/arafat-sani/Shanto-portfolio)
-A modern personal portfolio website built with **React** and **Tailwind CSS**.  
-![Portfolio Demo](https://github.com/arafat-sani/Shanto-portfolio/raw/main/demo.png)
 
-### [Project 2 Name](Link)
-Short description about the project, technologies used, and link to live/demo.
+
+
+
 
 ---
 
 ## 📫 Contact Me
-- Email: arafatsani@example.com  
-- LinkedIn: [Arafat Sani](https://www.linkedin.com/in/arafat-sani)  
-- Portfolio: [https://arafat-sani.github.io](https://arafat-sani.github.io)  
+- Email: arafatsani@gmail.com  
+
+
 
 ---
 
