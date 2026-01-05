@@ -41,8 +41,14 @@ I am a passionate Frontend Developer specializing in **React**, **Tailwind CSS**
 
 ---
 
-## 📊 GitHub Stats
-![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-sani&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafat-sani&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-sani&layout=compact&theme=radical" />
+</p>
+
 
 ---
 
