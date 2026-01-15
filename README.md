@@ -50,7 +50,7 @@ I’m a passionate **Frontend Developer** who enjoys building
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=arafat-sani&theme=dark)
+
 
 
 
