@@ -67,11 +67,11 @@ I'm a passionate **Frontend Developer** who enjoys building **modern, responsive
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arafat-sani&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</p> -->
 
 ---
 
